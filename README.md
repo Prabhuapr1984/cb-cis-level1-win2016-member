@@ -1,2 +1,7 @@
 # cb-cis-level1-win2016-member
-Chef Cookbook for cis-level1-windows2016-member server
+
+TODO: Enter the cookbook description here.
+
+
+2.3.1.5 Rename Administrator Account 
+2.3.1.6 Rename Guest Account
