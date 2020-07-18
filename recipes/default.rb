@@ -4,7 +4,7 @@
 #
 # Copyright:: 2020, The Authors, All Rights Reserved.
 
-return unless node['platform_family'] == 'windows'
+return unless platform_family?('windows')
 
 include_recipe 'cb-cis-level1-win2016-member::security_policy'
 include_recipe 'cb-cis-level1-win2016-member::section_2'
